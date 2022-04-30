@@ -1,0 +1,12 @@
+{
+"email" : "abcd@gmail.com",
+"first_name" : "tanka",
+"last_name" : "bhattarai",
+"password": "hello@123",
+"password2": "hello@123",
+"gender" : "male"
+}
+{
+"email" : "abcd@gmail.com",
+"password": "hello@123"
+}
