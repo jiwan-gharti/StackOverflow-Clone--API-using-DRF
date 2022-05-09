@@ -2,7 +2,8 @@
 In this project, Using **DRF** I have cloned **stackoverflow Functionality** which contains basic and userful features such as:
 * User Signup
 * User Login
-* User Can Post/Update/Delete/Update
+* User Can Post/Update/Delete/Update Question
+* User can discuss using comments
 * Upvote/DownVote
 *  User Profile
 
